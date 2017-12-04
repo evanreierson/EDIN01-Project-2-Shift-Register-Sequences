@@ -1,1 +1,9 @@
-.ipynb_checkpoints
+*.ipynb_checkpoints
+*.c
+*.JPG
+out
+*.pdf
+*.html
+*.py
+/checkdb
+/build-checkdb-Desktop_Qt_5_6_1_GCC_64bit-Debug
